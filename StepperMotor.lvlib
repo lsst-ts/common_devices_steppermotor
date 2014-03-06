@@ -5,7 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Config" Type="Folder">
-		<Item Name="Stepper Motor.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/Devices/StepperMotor/Config/Stepper Motor.ctl"/>
+		<Item Name="StepperMotor.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/Devices/StepperMotor/Config/StepperMotor.ctl"/>
 	</Item>
 	<Item Name="StepperMotor" Type="Folder">
 		<Item Name="StepperMotor.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/Common/Devices/StepperMotor/StepperMotor/StepperMotor.lvclass"/>
